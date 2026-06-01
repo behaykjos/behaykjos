@@ -1,24 +1,28 @@
-<h1 align="center">✨ Olá, eu sou a [Teu Nome] ✨</h1>
+<h1 align="center">☀️ hey, eu sou a [teu nome] 🌊</h1>
 
 <p align="center">
-💻 Técnica de Informática | 🚀 Futuro Dev | 🌱 Sempre aprendendo
+👩‍💻 técnica de informática • 💛 amante de tecnologia • 🚀 dev em construção
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
+  <img src="LINK-DO-TEU-BANNER-CANVA" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180">
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 🌊 sobre mim
 
-💡 Sou técnica de informática apaixonada por tecnologia  
-🎯 Gosto de resolver problemas e criar soluções úteis  
-🚀 Atualmente evoluindo no mundo do desenvolvimento  
+🌼 curiosa por natureza  
+💻 gosto de mexer com código e entender como as coisas funcionam  
+✨ acredito que dá pra aprender tecnologia de forma leve (sem sofrimento 😌)  
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🏖️ o que eu uso no dia a dia
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
@@ -26,55 +30,52 @@
 
 ---
 
-## 📂 Projeto em Destaque
+## 🌺 meu cantinho no código
 
-### 🔹 [Nome do Projeto](link-do-teu-projeto)
+### 🌴 [nome do projeto](link)
 
-📝 Descrição:
-> Explica aqui o que o projeto faz de forma simples
+💡 o que é:
+> explicação simples e direta do projeto
 
-💡 O que eu aprendi:
-- Organização de código
-- Lógica de programação
-- Uso do Git/GitHub
+✨ o que eu aprendi:
+- pensar melhor a lógica  
+- organizar código  
+- não desistir quando dá erro 😅  
 
 ---
 
-## 📈 Estatísticas
+## 🌞 minhas stats (aos poucos a gente chega lá)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TEU_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TEU_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TEU_USERNAME&show_icons=true&theme=radical" />
 </p>
 
 ---
 
-## 🎯 Atualmente
+## 🍹 atualmente
 
-- 📚 Estudando: JavaScript / Python
-- 🛠️ Criando: novos projetos
-- 🌱 Evoluindo todos os dias
+- 📚 aprendendo: javascript / python  
+- 🌱 tentando evoluir 1% todo dia  
+- 💭 pensando em novos projetos  
 
 ---
 
-## 🌐 Contato
+## 🌈 bora conectar?
 
 <p align="center">
   <a href="link-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-00C9A7?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:teuemail@email.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-✨ Obrigada por visitar meu perfil ✨
+🌊 obrigada por passar por aqui ☀️  
+volta sempre 😄✨
 </p>
 
 <!--
