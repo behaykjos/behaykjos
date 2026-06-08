@@ -16,8 +16,6 @@
 💻 I enjoy coding and understanding how things work  
 ✨ I believe everything can be learned from zero 
 
----
-
 ## ❀ My tech
 
 🌴 Linguagens: C, C++, JavaScript
@@ -37,8 +35,6 @@
 - 📚 Developing my last school project
 - 🌱 Searching new ways to follow my professional and academic life
 - 💭 Teaching what I learnt to others
-
----
 
 ## ⍟ My goals
 
