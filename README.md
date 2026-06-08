@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/bb4086840bb7c36a43e7464bdbfdb8b8/3ba890377e1b9c80-c4/s540x810/e93299fe22bf2bf51c8c26b235f78fb851027495.gif" width="180">
+  <img src="https://64.media.tumblr.com/bb4086840bb7c36a43e7464bdbfdb8b8/3ba890377e1b9c80-c4/s540x810/e93299fe22bf2bf51c8c26b235f78fb851027495.gif" width="700">
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 ---
 <p>
-  <img src="https://static.wixstatic.com/media/f4859b_16523cc3b5dc47619f2775779548175b~mv2.gif" width="180">
+  <img src="https://static.wixstatic.com/media/f4859b_16523cc3b5dc47619f2775779548175b~mv2.gif" width="700">
 </p>
 ---
 
@@ -48,7 +48,7 @@
 
 ---
 <p align="center">
-  <img src="https://64.media.tumblr.com/a811cb3e22e11434801105d8f94cc5ac/6351423922143acb-12/s640x960/fb1818851ec5cf1d4318302fa390e6cb4b85f19f.gifv" width="180">
+  <img src="https://64.media.tumblr.com/a811cb3e22e11434801105d8f94cc5ac/6351423922143acb-12/s640x960/fb1818851ec5cf1d4318302fa390e6cb4b85f19f.gifv" width="700">
 </p>
 ---
 
@@ -56,9 +56,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karen-af-gomes/">
-    <img src="https://img.shields.io/badge/LinkedIn-00C9A7?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png"/>
   </a>
+  <span></span>
   <a href="mailto:karen.afgomes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"/>
   </a>
 </p>
