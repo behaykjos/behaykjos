@@ -27,7 +27,7 @@
 🍂 Low-code: OutSystems
 
 ---
-<p>
+<p align="center">
   <img src="https://static.wixstatic.com/media/f4859b_16523cc3b5dc47619f2775779548175b~mv2.gif" width="700">
 </p>
 ---
@@ -56,10 +56,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karen-af-gomes/">
-    <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" heigh="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" height="50"/>
   </a>
-  <span></span>
+
+  &nbsp;&nbsp;&nbsp;
+  
   <a href="mailto:karen.afgomes@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" heigh="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="50"/>
   </a>
 </p>
