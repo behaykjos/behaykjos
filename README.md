@@ -48,7 +48,7 @@
 
 ---
 <p align="center">
-  <img src="https://64.media.tumblr.com/a811cb3e22e11434801105d8f94cc5ac/6351423922143acb-12/s640x960/fb1818851ec5cf1d4318302fa390e6cb4b85f19f.gifv" width="700">
+  <img src="https://64.media.tumblr.com/a811cb3e22e11434801105d8f94cc5ac/6351423922143acb-12/s640x960/fb1818851ec5cf1d4318302fa390e6cb4b85f19f.gif" width="700">
 </p>
 ---
 
@@ -56,10 +56,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karen-af-gomes/">
-    <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png"/>
+    <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" heigh="50"/>
   </a>
   <span></span>
   <a href="mailto:karen.afgomes@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" heigh="50"/>
   </a>
 </p>
