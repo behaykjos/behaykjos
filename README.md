@@ -61,7 +61,7 @@
   <a href="https://www.linkedin.com/in/karen-af-gomes/">
     <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" height="50"/>
   </a>
-  
+  &nbsp;
   <a href="mailto:karen.afgomes@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="50"/>
   </a>
