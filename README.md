@@ -23,6 +23,7 @@
 <p>🍄 Backend: Java, Node.js, PHP </p>
 <p>🍀 ORM: Prisma </p>
 <p></p>🍂 Low-code: OutSystems </p>
+<br>
 
 ---
 <p align="center">
@@ -33,15 +34,16 @@
 
 ## ಌ Currently
 
-- 📚 Developing my last school project
-- 🌱 Searching new ways to follow my professional and academic life
-- 💭 Teaching what I learnt to others
+<p>- 📚 Developing my last school project </p>
+<p>- 🌱 Searching new ways to follow my professional and academic life </p>
+<p>- 💭 Teaching what I learnt to others </p>
 
 ## ⍟ My goals
 
-- To get a degree in cibersecurity ✨
-- To continue to develop further professional and social skills 💡
-- To build a strong network 📣
+<p>- To get a degree in cibersecurity ✨ </p>
+<p>- To continue to develop further professional and social skills 💡 </p>
+<p>- To build a strong network 📣 </p>
+<br>
 
 ---
 <p align="center">
