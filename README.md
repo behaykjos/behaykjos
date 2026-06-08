@@ -15,6 +15,7 @@
 <p>🌼 Naturally curious  </p>
 <p>💻 I enjoy coding and understanding how things work  </p>
 <p>✨ I believe everything can be learned from zero </p>
+<br>
 
 ## ❀ My tech
 
@@ -37,6 +38,7 @@
 <p>- 📚 Developing my last school project </p>
 <p>- 🌱 Searching new ways to follow my professional and academic life </p>
 <p>- 💭 Teaching what I learnt to others </p>
+<br>
 
 ## ⍟ My goals
 
